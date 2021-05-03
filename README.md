@@ -1,4 +1,6 @@
 # vuetut-covid-tracker
+## YouTube Tutorial - Traversy Media
+[Build a Covid Tracker App With Vue.js & Tailwind](https://www.youtube.com/watch?v=m-MAIpnH9ag)
 
 ## Project setup
 ```
